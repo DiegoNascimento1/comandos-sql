@@ -97,4 +97,4 @@ Como contribuir
 Este repositório foi feito com carinho ❤️ para toda a comunidade que vive e respira dados.  
 Se este conteúdo te ajudou, compartilhe com alguém que também possa se beneficiar.
 
-> <center> "Compartilhar conhecimento é multiplicar sabedoria."
+> "Compartilhar conhecimento é multiplicar sabedoria."
